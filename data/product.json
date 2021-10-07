@@ -1,0 +1,116 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Laptop",
+      "price": "35000",
+      "image": "https://m.media-amazon.com/images/I/91MVVK14sEL._AC_SR180,120_QL70_.jpg",
+      "description": "Unlike desktop computers, laptops are designed for portability and enable people to work on their projects from virtually anywhere. In contrast to smartphones and most tablets, laptops are designed to function similarly to, and run the same programs as, desktops.",
+      "inCart": "0"
+    },
+    {
+      "id": "2",
+      "title": "Mobile",
+      "price": "10000",
+      "image": "https://m.media-amazon.com/images/I/71Y8rH2cJiL._AC_UY218_.jpg",
+      "description": "A mobile phone (also known as a hand phone, cell phone, or cellular telephone) is a small portable radio telephone.",
+      "inCart": "0"
+    },
+    {
+      "id": "3",
+      "title": "Chair",
+      "price": "500",
+      "image": "https://m.media-amazon.com/images/I/71nyuLVql4L._AC_UL320_.jpg",
+      "description": "A chair is a piece of furniture. It is used for sitting on and it can also be used for standing on, if you can't reach something. They usually have four legs to support the weight.",
+      "inCart": "0"
+    },
+    {
+      "id": "4",
+      "title": "Table",
+      "price": "600",
+      "image": "https://m.media-amazon.com/images/I/71Ssd3HwYRL._AC_SR180,120_QL70_.jpg",
+      "description": "A table is an arrangement of information or data, typically in rows and columns, or possibly in a more complex structure. Tables are widely used in communication, research, and data analysis.",
+      "inCart": "0"
+    },
+    {
+      "id": "5",
+      "title": "Microwave",
+      "price": "6000",
+      "image": "https://m.media-amazon.com/images/I/41lpadRa89L._AC_SR180,120_QL70_.jpg",
+      "description": "Microwave ovens heat food using microwaves, a form of electromagnetic radiation similar to radio waves. ... A device called a magnetron inside the oven produces microwaves.",
+      "inCart": "0"
+    },
+    {
+      "id": "6",
+      "title": "Miko",
+      "price": "25000",
+      "image": "https://m.media-amazon.com/images/I/61P7oFO6khL._AC_UL320_.jpg",
+      "description": "Miko My Companion 2: Playful Learning STEM Robot | Programmable + Voice Activated AI Tutor + Autonomous + Educational Games | 30+ Free Apps | Best Birthday Gift for 5 6 7 8 9 Boys and Girls.",
+      "inCart": "0"
+    },
+    {
+      "id": "7",
+      "title": "Alexa",
+      "price": "4000",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIUAAAC4CAMAAAD64N99AAAAYFBMVEVHcEwABQkABAkBAgMAAAIAAwcABQoAAAMAAQMAAgUABgsACQ8AAAEAAAEAAAEAcesAAAIAAAIAAAEAAgUAAAEAGi8AMVIAfeoA+/4AXbYAyPIApPUAR4UA5PoAX3oAiavUDnhpAAAAIHRSTlMAyaII8NKp6OLav7QUIjHSWktshT/Iv7pLyXCRxlyViRXlNJ0AAA7FSURBVHic7VqLcuK6EoywhCQbCC8nm91szv//5Z3pnpFtIHv2nrOpW3XLQzBgy5pWz1OEp6dVVllllVVWWWWVVVZZZZVVVllllVVWWWWVVVZZZZVVVllllVVW+T+Vbrfb7w/X6+l0Ok5yOl2v18Nhv9t1X6ha9B7P58tmszXZuAybO7lczsfj9bD/Y4C6w+l8uWxuVVP81INLjud8PB12/wbAXvRvB1WgD6q1px5c8ZGvwwNOJjDH6/4fIDgcL8OAJW6pEEeicfX9koBP2JhDOfwXCHYnRTBsTS2hbOcvjZxtA/qbcjn9lnm644YkNLWudHq/XVjpt7loQP7OafeXvh+2DQVkGAY9J3bXpyFo7jo95jhmty/hXXA8/8pJ9pswuDgYHI4SJueT6go0wLa9zCw16TVHPZ/PQOCOO/nv9vKZi+wuoRcmKFs85SEndDnNSpuF/gUjdgVqeRcIGu5sRxwPHeQUgqKANEbABVlZmmkGYOY0DROMYmtxY3mEO+ThdA/iIwWI45hI2W4/xTCPogWQOW+8Nl0Bx0hDHzdu2r2OIaQU0gLJsERyh2WYZhyGGYzNwze8ZSabzesCxu7teRQQkHtKthOWZfws7D30m+2CjBvf8WkGN7skvbfXuXO8Pz+/BIfRoNxSMgwLLvrB8qml1xbFNwiGGQX9hEHmfXl9fp9AnN+en4UM4qgPgTwwz8JCw6PQWfBP/cFF3r+I2rdzc4okXDw/vzsOAVJrQ9LLDbe03NjlgQzbhwBSMN+TuV5E5+vb4DY596OieH57GfvQDLPg5NPYUcv8rXoCaJPKh3FQIgTFOFyMihAGwnh+ex/HMSzvSS107tPJ5LFL5eYAoS2qugBEP76/UeEog0jGUSce7bQAeRndfGkun3DyQHmjn+qL/pVSiCGNDcLzW9Jx9IwNUKSG4/kNSEZCSWbN4IQQyIjnMA76p4cR50Zbf5gRQAAG4eV9UjMCRD8gV9D75O7x/XkSQaKkjGEMM5FBqmo0NoBAjr2REBx5c3KoBwQF8DabXzD0AkPWpgX2ZBOk0Kc6seWsCC0jVznq2ptfGAtj4wJ84CHAR9GKP5lSTLDQr+H4IhbG2jVhq0nOw2THHqQt73gVUTTCjQAa+Pcy4E+cUp4v+l6eekUl8OXlRbXr7a+Llb0LuKrqhkTiNuYWwaNJqZMj2dObX/Wh8oPy/S/Ih/593IqeVvn+4/t3Dn/9ARCvxKL+pirAQI9UpDbpBcVAlw9WzWryDAoovP9HA6Hy0+Tbz28LsdPff8qYHwsYSuY4apxVnXpKXfD51D11LbJxocK3OVh408ACsROG71BzD+PnNwfxk+MUx1/qWC+qPSDvqMcm+KRFBDx5JyGy1Y8KqU+gQ62iARZKSqWvOkEYq4SyGPoDnBPEtztRDDTZx4c6UdA4oKV1LkKR1xRoEDkqMXWvgUqv6AFLRmp0l1QS+UikR5mSYYKFMrwIKMjH5uVlY+/HESEii0UKTtBkEQuSscSCJSsZsExNh6d9GPoWNDpQUKesIOQGgY9bQaaM76u6E5PjgLgdmCuGwIyBZxpEuZFbeywnh8zEIROnUBRdchipXp/2XnCSslMBo8jgCu/Qd0GJSWRTYMB6AiYBEK07pK35vDEtI0mmIsftSOUJTCjhHMfVAcVAJ+lBvt5bkpkENYB1voSsZlUsSohlSEylSAbOOtQBq+thWYs3zeE6YcbSsDLBhhjBemq5Ph0CiDEv1nHZcn8BhlINTeDiMHsPbwEKMI/Ip8k4D3xKBoIAXVGsmBr2LaKxCmC9G+5yEhSD5nN1WvVklh+FLeBZiIDGp1PtYiO9vdBv4Ltknb6s0aXxBUbFIXSumiLXlej7gA7PFMzlJN7JMpWcPUAuqMWAQTR6PsqcmLEUzpzJTwn0YngSONdTlcvOwq1OlnLJYDgLWcVaONggiUX2wWoZ+S5mwCJQYpX7Yo1yo7zTA1Dpa3S/RcqnE8l9VKgfsp6D2ggYeiFkZUgHhdInr72hAEUYmDTFoiA+YjLRXVQdVMunWCiyNp1ZP3J6rNNYD2AuZ3Y1WdefQKpCK1gOXE1YUtcw9yUK60zUrWrlwqvzoHPIC3nRU2Yf2sx4knlxVRkz6LitgJ4MT1PEtE5FDmRQukV26iZI9IHZAlPJ7HLQtxlY5I28ZD2AZx0VQUwtNnvhAb4NTGAz5tJIVAeVzxZ4WDwSeDkICuTNnoW0uPHLhAXT4QWncDHBXTKw6OJLzDATBoKJIPwVMqSU1WkwsjPoqJXdhKCwRrcydOGXZn5lAvNk6FEuQDRXWmPEZb1K0pT+GoMOVEYiwCHS9JaqsxlftfjOxLjoWN56DXrlAtbnuiCFVpE5caL4EnNDR0/muQJK1D/FJwAjNntYKrQUyHyH4iU1tYNF2ICYA+FhBlFtumiZLOZoJIAAA5GzQ4YfGD47R6Tkk6lHr2lka26oZoUi7S/eafgicxayF4vZw964fuUCq67EpMSQ+RwnG6oh4Nw6BqkGGDSCY7LSlKzt0UjdEYVtYZASzShkOBbyUZqTZq5LFUd6Q52Mo58As8Kz1CsAhVxxIlQ21Jzk+bpD38lsQS4qI87WpQ5lcHIxV020EzySR/NgBVLpxBUpimxarBFCth0KspMWVE35iiJYgxNUfWKoRjMHw8HCVZcD74TnZzCjtMNRlIXMGAb2WBHVhCSjU6TfY/oUirdwmh90J6CFBL0DixZzUSxmFPKcmb2KfkToRzzghJpZ1fM8rdP+ig9ZWDM63d58BDkDzT677doLFxf0GnqyWLoACFdtLhqxVvp/cXbMBbXwofxoXCKiCyKVkV6jc8oMltnAoHOjY2wFxdH2xGivLA9npKSSPQ9k5O7SOIHZzVdaikYmwQEVJVYzKcdiGK+B8sDtgbYXl91Td2UPaAXVKVUeNRgdS/Rk6bmINEWsGJVPTQgbcQyzamTyKBa5AM12IyXrJlI+StaaUjgTOJduizWDOJwYEXb0zpj9Q7QYgQ4mOcRKNTqwimIhBdtoF2EZQ8qIoOi2tttHp8zQM0VIRiUbBeYkFpfEJgYwt81Gu1VDdAOoxFaUlUrUEr0qrTS9AqvfSzXrzoZCw7RY0rLlT1ncCUWNz5ajjB+u268bk+gvCpFmL9RorTVtBXQZTJWbg6DYHbh3Zb9YWUGwdtYJy72+YJzNFrFmPVUWLWm5wYol7symzJxcu2AdmdCro3UuR6DYbRgk2l4gv7pNPOmRHM/CU7nVtGFRXDxYkEGityPWGZRk6Qduwf1Etl1rCoer9Fr73cnctRZP4JVemKsZA+Q0P21hSoszXxRLoY25xDYe62DbCtQweLVNsFrgcgWK/W6wQo8thyVwcFHyFCXzYKmspoVmYTVlPEoDLFfRM5tnMembWdBwodGv6GdETqcTUOxP/PqkpjaWdBbWhOyp3ByD0UmeonUZEd2mpjM2OUwwqC1WYLJtcNh/cu8iWi8NxX7D7zcYztXX7t5nlEYvYEjUJbql2YJEQ5haDUI3QrrY5BhfvtOD9Cf95zhQHA69Jy1WdeulmGPa+puToMUtxfdMCE+aUWMgkxBsCYmBcWG9Et3YtrKJ/6JXFIfD4aQmEYu0XYPXEGZ/6+zICg9mFuYjS2G0TsICvNpkOmVkPSjmIPw6pabL+Tzj4nrClog7AXejPAtW3xKg57fiElnB0ASad+i9kX2q+G/Mtq3LVklY1CR++C0GQQiMJ/yMQVAcw/SNNXdGJfq+yHtra5mYI5NXdvKmJ7I3xzFaSXUyPevT4+kWAOFcEIXA6BEl1kZ6r+9Jm+qKZXcm1Slhldq6gBSt+uS2qywsROYX/FpAg+RyoUGMC5Jx3JT2DX61DDz1utwkZq8X1v41qixxwkaZicTCvFim812L70r6i1FBLiYYl4B9pufa3BpOz6OsL15AikUOC6djt1Ju2L1796IE42p/sQUTBAEUzSbn87byiw5us7zzY9/Ppq22shl9D2geE63pj96KKy9MGszDkSlMXa/fTCCUC/2VzQzGpS+e/6tRUHwtbfMx1ZbqjmsJNxbPp+xtqjfPxghnCpsJhFIhKLpmEzWK4Aglsx3wltWaJUsD9j1GYQ9epipPLizduc2y961uPfHarWKYzHGSatYBBnPX9QQ6Nr2Xc9t2+cbGos84iXbConNq3L1b53aMewa8ipTQMDgTV6DYGRszOi5Djd6CT3TYIlsQOwiaxHdR8GrfPucGQ0HkNGzmGEjE9XoAF8YGQwU4lJAaY5wRywjJ7p+t32N2aLtAoyHmSXeE5NRvH2EQGwCFGYXegZ+DkZDNkDBDI5XttfX3bqXIRD8tu8Q4JyDSEMMCAhGItv1B+hvZs3cTjv0ShwBpSLDmbIgK8ZS2VHu68acDEDQSJghEoAB2O1GOf+su6JgBaUhCbXMupenLM7UzqWGOwH5oNwOwo24FscDhhAiQhkShKJZUHmN5IGWp/9z0H7BQqupc/B/+3QNCDAl+M+hYLvqjG3xlnu/Wrk1OCv2w1H6cnJAI7iAYiJldjBAyMofC3y+egcYAEZU9TM7QPUuLV0fwGIJgmP8epbvFQUoIBFAIZvZ7yrOCOtpDD+1HlqIc6o0BB7D/BMHidzFdM8wNkkaLw2mYHJi/t0sHX77pdwBzCB4aT49+ydbdIWlQCKbh+ZXsHwC4Q/AYwAMkcywzNEREWO3R9N6pn0LSEXQNQvf0mIxb6yywTJB21LRQu1R9TwAAzCj49c8KDWD3QG7xfCbdrf7GwpNT0T19SsUDRI+mc0yzN58obvp98d187t/B8VkI/QasmX5fdWOg+30OfoGo4YGRH+ud58R7lb+49E9lsvLjK7ZyP0z+/2fUf4KmW+J64AuL0vEnATyasZsxMLnEv/KLX2Nor3O9j0d2d/f9QRj3U3bThQUPk598iXTLvwWWhnbhGF8BYXqZB8YCy4NS/sdx3NTqmSveIPxKiyy4XxDfLU58JYKG44aKmzNfkyo+wXKrsJt//HoqFkpmwfq1ueIRkimFL4LlcVpZZZVVVllllVVWWWWVVVb5H8p/ANZHXlESU9/PAAAAAElFTkSuQmCC",
+      "description": "Echo Dot is our best selling smart speaker that can be operated by voice - even from a distance. Alexa can speak both English & Hindi, and new features are added automatically",
+      "inCart": "0"
+    },
+    {
+      "id": "8",
+      "title": "Airpods",
+      "price": "1500",
+      "image": "https://m.media-amazon.com/images/I/71YFr6cN-GL._AC_UY218_.jpg",
+      "description": "AirPods will forever change the way you use headphones. Whenever you pull your AirPods out of the charging case, they instantly turn on and connect to your iPhone, Apple Watch, iPad, or Mac.",
+      "inCart": "0"
+    },
+    {
+      "id": "9",
+      "title": "Headphone",
+      "price": "2000",
+      "image": "https://m.media-amazon.com/images/I/61kWB+uzR2L._AC_UY218_.jpg",
+      "description": "Headphones are small speakers that can be worn in or around your ears. Traditional headphones have two ear cups attached by a band that is placed over your head. Smaller headphones, often called earbuds or earphones, are placed inside the outer part of your ear canal.",
+      "inCart": "0"
+    },
+    {
+      "id": "10",
+      "title": "Bicycle",
+      "price": "5000",
+      "image": "https://m.media-amazon.com/images/I/61L8yWXaBRL._AC_SR180,120_QL70_.jpg",
+      "description": "Bicycle, also called bike, two-wheeled steerable machine that is pedaled by the rider's feet. On a standard bicycle the wheels are mounted in-line in a metal frame, with the front wheel held in a rotatable fork",
+      "inCart": "0"
+    },
+    {
+      "id": "11",
+      "title": "Bed table",
+      "price": "2500",
+      "image": "https://m.media-amazon.com/images/I/61Me2SjDG6L._AC_SR180,120_QL70_.jpg",
+      "description": "VVE Vovalona Smart Multipurpose Foldable Laptop Table with Cup Holder, Study Table, Bed Table, Breakfast Table, Foldable and Portable/Ergonomic & Rounded Edges/Non-Slip Legs ",
+      "inCart": "0"
+    },
+    {
+      "id": "12",
+      "title": "Digital watch ",
+      "price": "2500",
+      "image": "https://m.media-amazon.com/images/I/71mRLPn333L._AC_SR180,120_QL70_.jpg",
+      "description": "A watch is a portable timepiece intended to be carried or worn by a person. It is designed to keep a consistent movement despite the motions caused by the person's activities. ... A pocket watch is designed for a person to carry in a pocket, often attached to a chain.",
+      "inCart": "0"
+    },
+    {
+      "id": "13",
+      "title": "Kurti",
+      "price": "999",
+      "image": "https://m.media-amazon.com/images/I/715zMswVdnL._AC_SR180,120_QL70_.jpg",
+      "description": "Beautiful Cotton Printed Kurti Kurti Description - Top Fabric : Cotton - Work Type : Checks Printed - Bust Size : S(36), M(38), L(40), XL(42), XXL(44), 3XL(46)Type : Ready Made ",
+      "inCart": "0"
+    },
+    {
+      "id": "14",
+      "title": "Toys",
+      "price": "500",
+      "image": "https://m.media-amazon.com/images/I/31l9X1z7+8S._AC_UL320_.jpg",
+      "description": "The baby will laugh on press and kids will imitate the toy and laugh along Kids learn sharing Caring along with object recognition and speaking skills when exposed to such toys ...",
+      "inCart": "0"
+    }
+  ]
+}
